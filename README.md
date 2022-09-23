@@ -2,6 +2,6 @@
 
 #You need to install pip to use myproject
 
-#pip install PysimpleGUI
-#pip install opencv-python
-#pip install Pillow
+print(& pip install PysimpleGUI)
+print(& install opencv-python)
+print(& install Pillow)
